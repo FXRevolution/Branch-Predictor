@@ -11,7 +11,7 @@ o	./BranchPredictionSim.exe Gshare  <M> <N> <Trace_File path>
 
 •	The Trace File Path can be the file’s full path with the file name as shown below:
 
-*NOTE Please use \\ instead of \ because the string will not ignore escape characters*
+*NOTE Please use \\\ instead of \ because the string will not ignore escape characters*
 
 •	If the trace file is in the same folder as the executable the file path can be just the filename and extension.
 
