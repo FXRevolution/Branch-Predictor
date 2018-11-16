@@ -1,0 +1,6 @@
+﻿  BranchPredictionSim.cpp
+c:\users\fxrev\source\repos\branchpredictionsim\branchpredictionsim\branchpredictionsim.cpp(105): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+c:\users\fxrev\source\repos\branchpredictionsim\branchpredictionsim\branchpredictionsim.cpp(121): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+c:\users\fxrev\source\repos\branchpredictionsim\branchpredictionsim\branchpredictionsim.cpp(126): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+c:\users\fxrev\source\repos\branchpredictionsim\branchpredictionsim\branchpredictionsim.cpp(34): warning C4101: 'upperBits': unreferenced local variable
+  BranchPredictionSim.vcxproj -> c:\users\fxrev\source\repos\BranchPredictionSim\Debug\BranchPredictionSim.exe
